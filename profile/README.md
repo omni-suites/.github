@@ -1,5 +1,3 @@
-# Omni-Suites
-
 <div align="center">
 
 # 🌐 Omni-Suites Ecosystem
