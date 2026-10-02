@@ -338,6 +338,6 @@ npm run test:smoke
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the <b>Omni-Suites</b> Engineering & Quality Architecture Team.</sub>
+  <sub>Built with ❤️ by the <b>Omni-Suites</b> Engineering & Quality Assurance Team.</sub> <br>
   <sub>An Architecture and Concept by <a href="https://github.com/moshdev2213">moshdev2213</a>.</sub>
 </div>
