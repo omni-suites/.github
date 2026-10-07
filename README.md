@@ -52,6 +52,10 @@ Modern engineering organizations operating distributed microservices frequently 
 
 ---
 
+## 🏛️ The System Architecture
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b08c3ad4-8776-4e5c-97aa-d35c215abd27" />
+
 ## 🏛️ Global Architecture & End-to-End Topology
 
 ```mermaid
